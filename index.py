@@ -1,3 +1,3 @@
 print("Hello")
-print("The contents of this file are going to be changed")
-print("The new changes will be committed to the main branch")
+print("The contents of this file have been changed")
+print("The new changes have been committed to the main branch")
